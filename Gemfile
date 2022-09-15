@@ -9,6 +9,13 @@ gem "rails", "~> 7.0.4"
 # Devise for user login
 gem "devise"
 
+gem 'bootstrap', '~> 5.2.0'
+gem 'sass', '~> 3.4', '>= 3.4.22'
+gem 'jquery-rails'
+
+# Simple form rails
+gem 'simple_form'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
