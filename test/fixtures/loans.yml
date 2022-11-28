@@ -1,9 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  paid: false
-  user: one
+  users: one
+  credit_card_loans: one
 
 two:
-  paid: false
-  user: two
+  users: two
+  credit_card_loans: two

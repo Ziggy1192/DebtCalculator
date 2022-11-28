@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  loan_total_sum: 1
+  loan_start_date: 1
+  loan_minimum_payment: 1
+  loan_custom_payment: 1
+  loan_interest_rate: 1
+
+two:
+  loan_total_sum: 1
+  loan_start_date: 1
+  loan_minimum_payment: 1
+  loan_custom_payment: 1
+  loan_interest_rate: 1
